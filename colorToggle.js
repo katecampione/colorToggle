@@ -1,4 +1,4 @@
-alert("CONNECTED!")
+
 var button = document.querySelector("button");
 var isPurple = false;
 
